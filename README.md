@@ -57,4 +57,4 @@ A modern vocabulary learning platform built with Angular 22, Node.js, and MongoD
 
 ## Connect
 
-- LinkedIn: linkedin.com/in/sgdyachenko
+- [LinkedIn](https://www.linkedin.com/in/sgdyachenko/)
